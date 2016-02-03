@@ -1,0 +1,34 @@
+{
+  "name": "pumping stations",
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Donington Mallard Hurn",
+        "Operator": "Black Sluice Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.256344,
+          52.904899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Donington North Ing",
+        "Operator": "Black Sluice Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.250362,
+          52.918089
+        ]
+      }
+    }
+  ]
+}
