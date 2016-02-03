@@ -13,8 +13,8 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 
 **Future Development**
 
-*Other types of pumping station (i.e. water transfer)
-*More technical details about stations i.e.
-  *Number of pumps
-  *Pump types
-  *Power/motor type
+* Other types of pumping station (i.e. water transfer)
+* More technical details about stations i.e.
+  * Number of pumps
+  * Pump types
+  * Power/motor type
