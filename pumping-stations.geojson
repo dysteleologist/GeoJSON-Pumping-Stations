@@ -477,6 +477,118 @@
           52.978764
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hobhole (Diesel)",
+        "Operator": "Witham Fourth District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.031194,
+          52.939334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hobhole (Electric)",
+        "Operator": "Witham Fourth District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.028962,
+          52.939538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lade Bank",
+        "Operator": "Witham Fourth District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.057184,
+          53.069876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Benington",
+        "Operator": "Witham Fourth District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.110533,
+          52.978864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Leverton",
+        "Operator": "Witham Fourth District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.136599,
+          53.003925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wrangle",
+        "Operator": "Witham Fourth District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.188148,
+          53.035479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Littlemore Lane",
+        "Operator": "Witham Fourth District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.003449,
+          53.050213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Boston East",
+        "Operator": "Witham Fourth District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.016836,
+          52.982102
+        ]
+      }
     }
   ]
 }
