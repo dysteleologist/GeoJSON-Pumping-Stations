@@ -589,6 +589,188 @@
           52.982102
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Farroway",
+        "Operator": "Witham First District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.290987,
+          53.064093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Digby",
+        "Operator": "Witham First District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.298030,
+          53.069834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ringmoor",
+        "Operator": "Witham First District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.283219,
+          53.071259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "North Kyme",
+        "Operator": "Witham First District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.250201,
+          53.069625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chapel Hill",
+        "Operator": "Witham First District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.210510,
+          53.070675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Billinghay",
+        "Operator": "Witham First District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.242992,
+          53.087451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Timberland",
+        "Operator": "Witham First District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.226131,
+          53.109016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Blankney",
+        "Operator": "Witham First District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.257872,
+          53.156775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Metheringham",
+        "Operator": "Witham First District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.294981,
+          53.180438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nocton",
+        "Operator": "Witham First District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.326183,
+          53.191951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Branston",
+        "Operator": "Witham First District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.354802,
+          53.217706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Heighington",
+        "Operator": "Witham First District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.396800,
+          53.229843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sandhill Beck",
+        "Operator": "Witham First District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.440413,
+          53.229153
+        ]
+      }
     }
   ]
 }
