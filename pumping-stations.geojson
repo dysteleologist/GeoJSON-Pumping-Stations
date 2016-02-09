@@ -1009,6 +1009,300 @@
           53.209714
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wainfleet Sea Lane",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.276862,
+          53.084558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gibraltar Point",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.318067,
+          53.097847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Burgh Sluice",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.317176,
+          53.102269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Crown Farm",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.249322,
+          53.116223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Quinceys",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.197013,
+          53.121126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thorpe Culvert",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.19675,
+          53.121329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gotts",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.299769,
+          53.138709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Burgh-le-Marsh",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.253806,
+          53.160339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Boothby",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.230906,
+          53.190999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nursery",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.236629,
+          53.196373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wyche",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.264503,
+          53.206617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ingoldmells",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.349459,
+          53.18972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chapel Basin",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.33703,
+          53.231102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Anderby (Electric)",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.315824,
+          53.258995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Anderby (Diesel)",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.315744,
+          53.258827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Boygrift",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.298052,
+          53.293679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Trusthorpe",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.271997,
+          53.332103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fulbeck",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.262373,
+          53.343941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Theddlethorpe",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.191563,
+          53.373456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Howdales",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.143235,
+          53.393508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Saltfleet",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.189374,
+          53.417186
+        ]
+      }
     }
   ]
 }
