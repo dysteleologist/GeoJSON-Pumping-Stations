@@ -1303,6 +1303,160 @@
           53.417186
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Porters Sluice",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.134241,
+          53.473743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Grainthorpe",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.10048,
+          53.48431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ludney",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.094942,
+          53.437727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Austen Fen East",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.06353,
+          53.42545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Austen Fen West",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.062506,
+          53.425255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Covenham",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.015245,
+          53.428905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biergate East",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.048789,
+          53.441288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Biergate West",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.048006,
+          53.440931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fulstow East",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.024654,
+          53.462481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fulstow West",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.023721,
+          53.462248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thoresby Bridge",
+        "Operator": "Lindsey Marsh Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.010803,
+          53.477524
+        ]
+      }
     }
   ]
 }
