@@ -10,15 +10,17 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 3. [Witham Third District Internal Drainage Board] (http://www.witham-3rd-idb.co.uk) (17 stations)
 4. [Witham Fourth District Internal Drainage Board] (http://www.w4idb.co.uk) (8 stations)
 5. [Lindsey Marsh Drainage Board] (http://www.wmc-idbs.org.uk/LMDB) (32 stations)
+6. [Welland and Deepings Internal Drainage Board] (http://www.wellandidb.org.uk) (14 stations)
+7. [South Holland Internal Drainage Board] (http://www.wlma.org.uk/index.pl?id=23) (17 stations)
 
 **To-Do**
 
 1. [Environment Agency](http://www.gov.uk/government/organisations/environment-agency)
 2. [Upper Witham Internal Drainage Board] (http://www.uwidb.co.uk)
-3. [Welland and Deepings Internal Drainage Board] (http://www.wellandidb.org.uk)
-4. [North East Lindsey Internal Drainage Board] (http://www.northeastlindsey-idb.org.uk)
-5. [South Holland Internal Drainage Board] (http://www.wlma.org.uk/index.pl?id=23)
-6. [North Level District Internal Drainage Board] (http://www.northlevelidb.org)
+3. [North East Lindsey Internal Drainage Board] (http://www.northeastlindsey-idb.org.uk)
+4. [North Level District Internal Drainage Board] (http://www.northlevelidb.org)
+5. [King's Lynn Internal Drainage Board] (http://www.wlma.org.uk/index.pl?id=42)
+6. [Trent Valley Internal Drainage Board] (http://www.wmc-idbs.org.uk/TVIDB/)
 
 **Future Development**
 
