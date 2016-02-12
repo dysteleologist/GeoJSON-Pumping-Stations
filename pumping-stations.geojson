@@ -2059,6 +2059,90 @@
           52.639000
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mawnbridge",
+        "Operator": "North East Lindsey Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.118306,
+          53.593717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Middle Drain",
+        "Operator": "North East Lindsey Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.143980,
+          53.608736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Immingham",
+        "Operator": "North East Lindsey Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.188057,
+          53.605133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Little Buck Beck",
+        "Operator": "North East Lindsey Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.008092,
+          53.541504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New Holland Outfall",
+        "Operator": "North East Lindsey Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.365145,
+          53.704139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New Holland Main Drain",
+        "Operator": "North East Lindsey Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.364635,
+          53.701133
+        ]
+      }
     }
   ]
 }
