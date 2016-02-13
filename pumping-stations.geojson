@@ -2143,6 +2143,230 @@
           53.701133
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ingleborough",
+        "Operator": "King's Lynn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.172028,
+          52.724043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wolferton",
+        "Operator": "King's Lynn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.453309,
+          52.844337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "North Wootton",
+        "Operator": "King's Lynn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.437822,
+          52.804001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "North Lynn",
+        "Operator": "King's Lynn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.384097,
+          52.771489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kings Reach",
+        "Operator": "King's Lynn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.433048,
+          52.744748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pierrepoint",
+        "Operator": "King's Lynn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.401690,
+          52.742157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Church Farm",
+        "Operator": "King's Lynn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.449007,
+          52.763542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Middleton Stop North",
+        "Operator": "King's Lynn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.442494,
+          52.736902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Middleton Stop South",
+        "Operator": "King's Lynn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.442296,
+          52.736635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Eau Brink",
+        "Operator": "King's Lynn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.352554,
+          52.707153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Islington (Diesel)",
+        "Operator": "King's Lynn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.330367,
+          52.704900
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Islington (Electric)",
+        "Operator": "King's Lynn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.330072,
+          52.704759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Green Bank",
+        "Operator": "King's Lynn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.287039,
+          52.675516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Waltham Farm",
+        "Operator": "King's Lynn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.334938,
+          52.669637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Crabbs Abbey (Diesel)",
+        "Operator": "King's Lynn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.364412,
+          52.646938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Crabbs Abbey (Electric)",
+        "Operator": "King's Lynn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.364249,
+          52.646808
+        ]
+      }
     }
   ]
 }
