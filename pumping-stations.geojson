@@ -2591,6 +2591,146 @@
           53.395047
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Flixborough",
+        "Operator": "Scunthorpe and Gainsborough Water Level Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.697529,
+          53.624258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lysaghts",
+        "Operator": "Scunthorpe and Gainsborough Water Level Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.698522,
+          53.610340
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Burringham",
+        "Operator": "Scunthorpe and Gainsborough Water Level Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.732412,
+          53.566471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "East Butterwick",
+        "Operator": "Scunthorpe and Gainsborough Water Level Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.736775,
+          53.542487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Black Bank",
+        "Operator": "Scunthorpe and Gainsborough Water Level Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.736252,
+          53.527139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Operator": "Scunthorpe and Gainsborough Water Level Management Board",
+        "Name": "Susworth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.746566,
+          53.505188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Jenny Hurn",
+        "Operator": "Scunthorpe and Gainsborough Water Level Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.772098,
+          53.477891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ravensfleet",
+        "Operator": "Scunthorpe and Gainsborough Water Level Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.795551,
+          53.453753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Whoofer",
+        "Operator": "Scunthorpe and Gainsborough Water Level Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.769740,
+          53.465258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pauls Malt",
+        "Operator": "Scunthorpe and Gainsborough Water Level Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.776242,
+          53.389983
+        ]
+      }
     }
   ]
 }
