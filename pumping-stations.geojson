@@ -2596,7 +2596,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Flixborough",
-        "Operator": "Scunthorpe and Gainsborough Water Level Management Board"
+        "Operator": "Scunthorpe and Gainsborough Water Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2610,7 +2610,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Lysaghts",
-        "Operator": "Scunthorpe and Gainsborough Water Level Management Board"
+        "Operator": "Scunthorpe and Gainsborough Water Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2624,7 +2624,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Burringham",
-        "Operator": "Scunthorpe and Gainsborough Water Level Management Board"
+        "Operator": "Scunthorpe and Gainsborough Water Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2638,7 +2638,7 @@
       "type": "Feature",
       "properties": {
         "Name": "East Butterwick",
-        "Operator": "Scunthorpe and Gainsborough Water Level Management Board"
+        "Operator": "Scunthorpe and Gainsborough Water Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2652,7 +2652,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Black Bank",
-        "Operator": "Scunthorpe and Gainsborough Water Level Management Board"
+        "Operator": "Scunthorpe and Gainsborough Water Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2665,7 +2665,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Operator": "Scunthorpe and Gainsborough Water Level Management Board",
+        "Operator": "Scunthorpe and Gainsborough Water Management Board",
         "Name": "Susworth"
       },
       "geometry": {
@@ -2680,7 +2680,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Jenny Hurn",
-        "Operator": "Scunthorpe and Gainsborough Water Level Management Board"
+        "Operator": "Scunthorpe and Gainsborough Water Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2694,7 +2694,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Ravensfleet",
-        "Operator": "Scunthorpe and Gainsborough Water Level Management Board"
+        "Operator": "Scunthorpe and Gainsborough Water Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2708,7 +2708,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Whoofer",
-        "Operator": "Scunthorpe and Gainsborough Water Level Management Board"
+        "Operator": "Scunthorpe and Gainsborough Water Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2722,7 +2722,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Pauls Malt",
-        "Operator": "Scunthorpe and Gainsborough Water Level Management Board"
+        "Operator": "Scunthorpe and Gainsborough Water Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2736,7 +2736,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Cow Lane",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2750,7 +2750,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Paupers",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2764,7 +2764,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Common Carrs",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2778,7 +2778,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Godnow",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2792,7 +2792,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Brewcarrs",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2806,7 +2806,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Althorpe",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2820,7 +2820,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Derrythorpe",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2834,7 +2834,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Trentside",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2848,7 +2848,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Rush Carr",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2862,7 +2862,7 @@
       "type": "Feature",
       "properties": {
         "Name": "South Field",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2876,7 +2876,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Greenholme",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2890,7 +2890,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Kelfield",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2904,7 +2904,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Black Dyke",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2918,7 +2918,7 @@
       "type": "Feature",
       "properties": {
         "Name": "South Street",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2932,7 +2932,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Three Bridges",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2946,7 +2946,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Four Bridges",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2960,7 +2960,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Heckdyke",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2974,7 +2974,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Gringley",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -2988,7 +2988,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Scaftworth",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
@@ -3002,7 +3002,7 @@
       "type": "Feature",
       "properties": {
         "Name": "Wiseton",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
       "geometry": {
         "type": "Point",
