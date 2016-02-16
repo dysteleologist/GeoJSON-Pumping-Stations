@@ -16,7 +16,7 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 9. [North East Lindsey Internal Drainage Board](http://www.northeastlindsey-idb.org.uk) (6 stations)
 10. [King's Lynn Internal Drainage Board](http://www.wlma.org.uk/index.pl?id=42) (16 stations)
 11. [Ancholme Internal Drainage Board](http://www.shiregroup-idbs.gov.uk) (16 stations)
-12. [Scunthorpe and Gainsborough Water Level Management Board](http://www.shiregroup-idbs.gov.uk) (10 stations)
+12. [Scunthorpe and Gainsborough Water Management Board](http://www.shiregroup-idbs.gov.uk) (10 stations)
 13. [Isle of Axholme and North Nottinghamshire Water Level Management Board](http://www.wmc-idbs.org.uk/IoAaNN) (20 stations)
 
 **To-Do**
