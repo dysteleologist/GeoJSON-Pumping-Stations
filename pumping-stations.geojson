@@ -2731,6 +2731,286 @@
           53.389983
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cow Lane",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.734670,
+          53.677645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Paupers",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.715350,
+          53.627732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Common Carrs",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.818119,
+          53.623628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Godnow",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.854814,
+          53.598786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brewcarrs",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.772674,
+          53.604726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Althorpe",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.751281,
+          53.587693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Derrythorpe",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.749242,
+          53.567940
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Trentside",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.746582,
+          53.554557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rush Carr",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.756495,
+          53.554608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "South Field",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.743942,
+          53.537371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Greenholme",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.883315,
+          53.527037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kelfield",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.762047,
+          53.501536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Black Dyke",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.764413,
+          53.501359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "South Street",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.775625,
+          53.485721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Three Bridges",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.791549,
+          53.482365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Four Bridges",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.810021,
+          53.473306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Heckdyke",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.800419,
+          53.454317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gringley",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.928548,
+          53.445944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Scaftworth",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.992996,
+          53.435744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wiseton",
+        "Operator": "Isle of Axholme and North Nottinghamshire Water Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.932260,
+          53.396470
+        ]
+      }
     }
   ]
 }
