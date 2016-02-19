@@ -3347,6 +3347,34 @@
           52.980121
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "St Germans",
+        "Operator": "Middle Level Commissioners"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.351186,
+          52.703636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bevill's Leam",
+        "Operator": "Middle Level Commissioners"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.164360,
+          52.505370
+        ]
+      }
     }
   ]
 }
