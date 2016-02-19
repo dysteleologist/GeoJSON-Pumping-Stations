@@ -3011,6 +3011,90 @@
           53.396470
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lapperditch",
+        "Operator": "Lower Severn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.344146,
+          51.801695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elmore Back",
+        "Operator": "Lower Severn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.341855,
+          51.847407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wicks Green",
+        "Operator": "Lower Severn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.344838,
+          51.828084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Saul",
+        "Operator": "Lower Severn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.367215,
+          51.771197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Oldbury",
+        "Operator": "Lower Severn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.547602,
+          51.637828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Marshfield",
+        "Operator": "Lower Severn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.370579,
+          51.738186
+        ]
+      }
     }
   ]
 }
