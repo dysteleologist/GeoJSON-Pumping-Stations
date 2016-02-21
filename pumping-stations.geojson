@@ -3375,6 +3375,76 @@
           52.505370
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Eastfield",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.612857,
+          52.752986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Heigham Holmes",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.626470,
+          52.724439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Potter Heigham",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.597207,
+          52.714537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Horse Fen",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.563701,
+          52.702375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Horning Grove",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.498405,
+          52.704231
+        ]
+      }
     }
   ]
 }
