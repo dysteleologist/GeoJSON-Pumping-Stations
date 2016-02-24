@@ -3445,6 +3445,174 @@
           52.704231
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ludham Bridge North",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.508997,
+          52.700743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ludham Bridge South",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.512283,
+          52.698722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Catfield",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.552961,
+          52.741481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sutton",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.525691,
+          52.75455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chapelfield",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.501463,
+          52.761432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tonnage Bridge East Ruston",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.478506,
+          52.779378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wayford Bridge",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.473455,
+          52.770658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thurne",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.552999,
+          52.687349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Repps",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.570216,
+          52.701009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Martham",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.609934,
+          52.715091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hermitage",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.566013,
+          52.643086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Upton Doles",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.535747,
+          52.683247
+        ]
+      }
     }
   ]
 }
