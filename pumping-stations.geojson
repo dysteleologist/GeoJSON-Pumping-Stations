@@ -3809,6 +3809,90 @@
           52.719047
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stubb Mill",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.609612,
+          52.740624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "St Benets",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.548704,
+          52.685297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "St Benets No. 2",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.548694,
+          52.684172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Postwick",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.399630,
+          52.612486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Buckenham",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.473200,
+          52.586902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cantley",
+        "Operator": "Broads Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.504354,
+          52.572739
+        ]
+      }
     }
   ]
 }
