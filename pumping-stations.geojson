@@ -3893,6 +3893,300 @@
           52.572739
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Burgh Castle",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.673762,
+          52.598455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Belton",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.647281,
+          52.574905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Caldecott",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.634299,
+          52.560909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Claxton",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.463032,
+          52.593063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Langley Monks",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.487274,
+          52.579943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Langley Double",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.523575,
+          52.568606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Limpenhoe",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.538617,
+          52.561317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Norton",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.543611,
+          52.554993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Raveningham",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.577353,
+          52.556201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Askews",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.605133,
+          52.543225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Haddiscoe",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.622714,
+          52.530644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wheatacre",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.649719,
+          52.504966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Burgh St Peter",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.681404,
+          52.492885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Blundeston",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.683606,
+          52.491635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Barnby",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.670820,
+          52.475930
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Short Dam",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.661252,
+          52.473056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "North Cove",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.638486,
+          52.467024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Long Dam",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.621636,
+          52.463296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Worlingham",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.616765,
+          52.463238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gillingham",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.561815,
+          52.466542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Barsham",
+        "Operator": "Waveney, Lower Yare & Lothingland Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.539531,
+          52.462502
+        ]
+      }
     }
   ]
 }
