@@ -7,6 +7,7 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 
 1. [Ancholme Internal Drainage Board](http://www.shiregroup-idbs.gov.uk) (16 stations)
 2. [Black Sluice Internal Drainage Board](http://www.blacksluiceidb.gov.uk) (34 stations)
+3. [Broads Internal Drainage Board](http://www.wlma.org.uk/index.pl?id=32) (37 stations)
 3. [Isle of Axholme and North Nottinghamshire Water Level Management Board](http://www.wmc-idbs.org.uk/IoAaNN) (20 stations)
 4. [King's Lynn Internal Drainage Board](http://www.wlma.org.uk/index.pl?id=42) (16 stations)
 5. [Lindsey Marsh Drainage Board](http://www.wmc-idbs.org.uk/LMDB) (32 stations)
@@ -17,6 +18,7 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 10. [Scunthorpe and Gainsborough Water Management Board](http://www.shiregroup-idbs.gov.uk) (10 stations)
 11. [South Holland Internal Drainage Board](http://www.wlma.org.uk/index.pl?id=23) (17 stations)
 12. [Trent Valley Internal Drainage Board](http://www.wmc-idbs.org.uk/TVIDB/) (18 stations)
+13. [Waverney, Lower Yare and Lothingland Internal Drainage Board](http://www.nicholsonslaw.com/drainage_solicitors_in_lowestoft_and_norwich.html) (21 stations)
 13. [Welland and Deepings Internal Drainage Board](http://www.wellandidb.org.uk) (14 stations)
 14. [Witham First District Internal Drainage Board](http://www.witham-1st-idb.co.uk) (13 stations)
 15. [Witham Fourth District Internal Drainage Board](http://www.w4idb.co.uk) (8 stations)
@@ -91,7 +93,6 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 65. [Waldersey Internal Drainage Board](http://www.middlelevel.gov.uk/waldersey.aspx)
 66. [Warboys, Somersham & Pidley Internal Drainage Board](http://www.middlelevel.gov.uk/warboys-somersham-pidley.aspx)
 67. [Waterbeach Level Internal Drainage Board](http://www.elydrainageboards.co.uk/members/waterbeach/home.html)
-68. [Waverney, Lower Yare and Lothingland Internal Drainage Board](http://www.nicholsonslaw.com/drainage_solicitors_in_lowestoft_and_norwich.html)
 69. [Whittlesey and District Internal Drainage Board](http://www.wcidb.org.uk/whittlesey-district-idb)
 70. [Woodwalton Internal Drainage Board](http://www.wcidb.org.uk/woodwalton-idb)
 
