@@ -4187,6 +4187,146 @@
           52.462502
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Reydon",
+        "Operator": "East Suffolk Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.644312,
+          52.329508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iken",
+        "Operator": "East Suffolk Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.553283,
+          52.150097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sudbourne",
+        "Operator": "East Suffolk Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.583951,
+          52.126335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Chillesford",
+        "Operator": "East Suffolk Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.494631,
+          52.100682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gedgrave",
+        "Operator": "East Suffolk Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.514562,
+          52.072954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Butley Marsh",
+        "Operator": "East Suffolk Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.491689,
+          52.084286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hollesley Coloney Marsh",
+        "Operator": "East Suffolk Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.472634,
+          52.055023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bawdsey",
+        "Operator": "East Suffolk Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.395397,
+          51.996204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "King's Fleet",
+        "Operator": "East Suffolk Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.379191,
+          51.995647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Falkenham",
+        "Operator": "East Suffolk Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.360293,
+          52.006073
+        ]
+      }
     }
   ]
 }
