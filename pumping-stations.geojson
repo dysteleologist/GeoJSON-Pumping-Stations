@@ -4565,6 +4565,244 @@
           52.455342
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Feldale",
+        "Operator": "Feldale Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.081297,
+          52.573223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Goosetree Corner",
+        "Operator": "Whittlesey & District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.033978,
+          52.590474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Goosetree Estate",
+        "Operator": "Whittlesey & District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.001679,
+          52.575688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Beggars Bridge",
+        "Operator": "Whittlesey & District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.047939,
+          52.553543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wype Doles",
+        "Operator": "Whittlesey & District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.075699,
+          52.542692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Manor Farm",
+        "Operator": "Whittlesey & District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.118988,
+          52.546033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Drysides",
+        "Operator": "Whittlesey & District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.182985,
+          52.552142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Underwoods",
+        "Operator": "Whittlesey & District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.124317,
+          52.519589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tebbitts Bridge",
+        "Operator": "Whittlesey & District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.165808,
+          52.50529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Conquest Lode",
+        "Operator": "Whittlesey & District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.207844,
+          52.511395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lords Farm",
+        "Operator": "Whittlesey & District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.228564,
+          52.50206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Glassmoor Bank",
+        "Operator": "Whittlesey & District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.108194,
+          52.526026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mereside",
+        "Operator": "Whittlesey & District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.084154,
+          52.484537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Plantation Farm",
+        "Operator": "Whittlesey & District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.057522,
+          52.50053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Yaxley Fen",
+        "Operator": "Holmewod & District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.240438,
+          52.508454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Whittlesey Mere",
+        "Operator": "Holmewod & District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.179482,
+          52.497434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Speechley's",
+        "Operator": "Woodwalton Drainage Commissioners"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.193140,
+          52.467058
+        ]
+      }
     }
   ]
 }
