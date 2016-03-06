@@ -5405,6 +5405,230 @@
           52.475018
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Reed Fen",
+        "Operator": "Euximoor Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.150469,
+          52.573169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Iron Bridge",
+        "Operator": "Euximoor Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.195484,
+          52.562799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sutton Gault",
+        "Operator": "Haddenham Level Drainage Commissioners"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.092868,
+          52.389849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Haddenham",
+        "Operator": "Haddenham Level Drainage Commissioners"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.093606,
+          52.334413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Glenhouse",
+        "Operator": "Manea & Welney District Drainage Commissioners"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.225069,
+          52.500256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Purls Bridge",
+        "Operator": "Manea & Welney District Drainage Commissioners"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.18431,
+          52.468926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Welches Dam",
+        "Operator": "Manea & Welney District Drainage Commissioners"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.166034,
+          52.45444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Moores",
+        "Operator": "March West and White Fen Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.031022,
+          52.588054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Duncombes",
+        "Operator": "March West and White Fen Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.017506,
+          52.566347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Beggars Bridge",
+        "Operator": "March West and White Fen Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.051696,
+          52.551121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "West Fen",
+        "Operator": "March West and White Fen Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.051514,
+          52.549658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Staffurths Bridge",
+        "Operator": "March West and White Fen Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.017286,
+          52.534026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "White Fen",
+        "Operator": "March West and White Fen Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.015283,
+          52.501281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Binnimoor",
+        "Operator": "March East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.11332,
+          52.557296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bedlam Bridge",
+        "Operator": "March East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.16845,
+          52.537566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Latches Fen",
+        "Operator": "March East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.126525,
+          52.52135
+        ]
+      }
     }
   ]
 }
