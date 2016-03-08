@@ -5811,6 +5811,272 @@
           52.442755
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Ransonmoor",
+        "Operator": "Ransonmoor District Drainage Commissioners"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.000203,
+          52.511738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Manor Farm",
+        "Operator": "Sawtry Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.188559,
+          52.432918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Castle Hill",
+        "Operator": "Sawtry Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.200229,
+          52.44005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sawtry Roughs",
+        "Operator": "Sawtry Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.237466,
+          52.433858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mepal",
+        "Operator": "Sutton & Mepal Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.11836,
+          52.418709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Swavesey",
+        "Operator": "Swavesey Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.003594,
+          52.309172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cock Fen",
+        "Operator": "Upwell Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.275006,
+          52.538746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Upwell Fen",
+        "Operator": "Upwell Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.307212,
+          52.563714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nordelph",
+        "Operator": "Upwell Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.279604,
+          52.584554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Padgetts Corner",
+        "Operator": "Upwell Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.187108,
+          52.554107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bedlam Bridge",
+        "Operator": "Upwell Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.162174,
+          52.530107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rings End",
+        "Operator": "Waldersey Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.064995,
+          52.606642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "South Brink",
+        "Operator": "Waldersey Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.104477,
+          52.631031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Puddock",
+        "Operator": "Warboys, Somersham & Pidley Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.01245,
+          52.473027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Westmoor",
+        "Operator": "Warboys, Somersham & Pidley Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.020532,
+          52.475982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Washways",
+        "Operator": "Warboys, Somersham & Pidley Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.03747,
+          52.450518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Acre Fen",
+        "Operator": "Warboys, Somersham & Pidley Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.035673,
+          52.447836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "High Fen",
+        "Operator": "Warboys, Somersham & Pidley Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.010959,
+          52.419292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pidley",
+        "Operator": "Warboys, Somersham & Pidley Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.013177,
+          52.416207
+        ]
+      }
     }
   ]
 }
