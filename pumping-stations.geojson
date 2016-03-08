@@ -6077,6 +6077,34 @@
           52.416207
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lodes End",
+        "Operator": "Ramsey Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.105115,
+          52.469947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stocking Fen",
+        "Operator": "Ramsey Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.108983,
+          52.462971
+        ]
+      }
     }
   ]
 }
