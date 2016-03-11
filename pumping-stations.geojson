@@ -6105,6 +6105,118 @@
           52.462971
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rawcliffe",
+        "Operator": "Black Drain Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.963771,
+          53.676733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Inlet",
+        "Operator": "Black Drain Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.957162,
+          53.646378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Outlet",
+        "Operator": "Black Drain Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.988281,
+          53.646970
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Orchard Cottage",
+        "Operator": "Goole and Airmyn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.892116,
+          53.693700
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "New Potter Grange",
+        "Operator": "Goole and Airmyn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.893290,
+          53.695828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hook Clough",
+        "Operator": "Goole and Airmyn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.878801,
+          53.722715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Downes Ground",
+        "Operator": "Goole and Airmyn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.923227,
+          53.717252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Southfield",
+        "Operator": "Goole and Airmyn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.856981,
+          53.712136
+        ]
+      }
     }
   ]
 }
