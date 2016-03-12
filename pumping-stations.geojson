@@ -6217,6 +6217,48 @@
           53.712136
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cross Drain",
+        "Operator": "Goole Fields District Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.857840,
+          53.654736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Reedness Junction",
+        "Operator": "Reedness and Swinefleet Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.852169,
+          53.653817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Thorntree",
+        "Operator": "Thorntree Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.944349,
+          53.679453
+        ]
+      }
     }
   ]
 }
