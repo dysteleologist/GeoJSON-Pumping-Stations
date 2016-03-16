@@ -6259,6 +6259,160 @@
           53.679453
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dempster",
+        "Operator": "Dempster Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.887003,
+          53.693770
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Operator": "Cowick and Snaith Internal Drainage Board",
+        "Name": "Newbridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.991811,
+          53.674042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Operator": "Cowick and Snaith Internal Drainage Board",
+        "Name": "Lord Downes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.989515,
+          53.697103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Operator": "Cowick and Snaith Internal Drainage Board",
+        "Name": "Finnley's Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.022374,
+          53.677494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pastures",
+        "Operator": "Rawcliffe Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.921521,
+          53.686376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Dobella",
+        "Operator": "Rawcliffe Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.926287,
+          53.685234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Langham 1",
+        "Operator": "Rawcliffe Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.941613,
+          53.681366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Langham 2",
+        "Operator": "Rawcliffe Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.941377,
+          53.681334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Langham 3",
+        "Operator": "Rawcliffe Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.943727,
+          53.681884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Key Lane",
+        "Operator": "Rawcliffe Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.951020,
+          53.712705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "West End",
+        "Operator": "Rawcliffe Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.977608,
+          53.704809
+        ]
+      }
     }
   ]
 }
