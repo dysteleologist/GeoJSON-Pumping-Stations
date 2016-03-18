@@ -77,13 +77,16 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 17. [Whittlesey and District Internal Drainage Board](http://www.wcidb.org.uk/whittlesey-district-idb) (14 stations)
 18. [Woodwalton Drainage Commissioners](http://www.wcidb.org.uk/woodwalton-idb) (1 station)
 
+**Ongoing**
+
+1. [Doncaster East Internal Drainage Board](http://www.shiregroup-idbs.gov.uk) (17 of 25 stations)
+
 **To-Do**
 
 1. [Environment Agency](http://www.gov.uk/government/organisations/environment-agency)
 2. [Ainsty Internal Drainage Board](http://www.yorkconsort.gov.uk/ainsty2008.html)
 4. [Beverley and North Holderness Internal Drainage Board](http://www.yorkconsort.gov.uk/beverley.html)
 13. [Danvm Drainage Commissioners](http://www.shiregroup-idbs.gov.uk)
-15. [Doncaster East Internal Drainage Board](http://www.shiregroup-idbs.gov.uk)
 21. [Foss Internal Drainage Board](http://www.yorkconsort.gov.uk/foss2008.html)
 28. [Lower Medway Internal Drainage Board](http://www.medwayidb.co.uk/lower-medway.html)
 39. [North Somerset Levels Internal Drainage Board](http://www.nslidb.org.uk)
