@@ -6413,6 +6413,244 @@
           53.704809
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Blaxton Quarry",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.949933,
+          53.518318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Langholme",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.861571,
+          53.459811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cadmans",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.906052,
+          53.488701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Franklins",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.904642,
+          53.516749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kilham Farm",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.014239,
+          53.511230
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Medge Hall",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.871103,
+          53.602439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Idle Stop",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.916709,
+          53.461274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "South Torne Bank",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.918133,
+          53.508667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Torne Bridge",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.983952,
+          53.522383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elmhirst",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.917444,
+          53.621167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Wikewell",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.952956,
+          53.600244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cuckoo Lane",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.996148,
+          53.592304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "High Levels North",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.932247,
+          53.590744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kirton Lane",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.979371,
+          53.603051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pissy Beds",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.990893,
+          53.598117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "West Moor",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.029777,
+          53.546558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Park Drain",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.900366,
+          53.478737
+        ]
+      }
     }
   ]
 }
