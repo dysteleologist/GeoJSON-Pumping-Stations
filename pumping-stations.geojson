@@ -6651,6 +6651,76 @@
           53.478737
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Severn Arches",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.074364185333252,
+          53.48756517078693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Huxterwell",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0902589559555054,
+          53.48656771722062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Low Ellers",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0999470949172971,
+          53.499100413167724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Balby Carr",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1044585704803465,
+          53.49655396196328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sandall Grange",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0398736596107483,
+          53.56155222434616
+        ]
+      }
     }
   ]
 }
