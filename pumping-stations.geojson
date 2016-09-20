@@ -6721,6 +6721,90 @@
           53.56155222434616
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Barnhorn",
+        "Operator": "Pevensey and Cuckmere Water Level Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3984770178794861,
+          50.848307930452506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Drockmill",
+        "Operator": "Pevensey and Cuckmere Water Level Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2968078851699829,
+          50.83891832372168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Horsebridge",
+        "Operator": "Pevensey and Cuckmere Water Level Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3705069422721863,
+          50.856212432704005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Manxey",
+        "Operator": "Pevensey and Cuckmere Water Level Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3503340482711792,
+          50.851510194215386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rickney",
+        "Operator": "Pevensey and Cuckmere Water Level Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.30954837799072266,
+          50.83961956093979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Star Inn",
+        "Operator": "Pevensey and Cuckmere Water Level Management Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.38765162229537964,
+          50.83045013714762
+        ]
+      }
     }
   ]
 }
