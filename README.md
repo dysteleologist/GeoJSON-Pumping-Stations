@@ -43,7 +43,7 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 8. [Mildenhall Internal Drainage Board](http://www.elydrainageboards.co.uk/members/mildenhall/home.html) (1 station)
 37. [Nightlayers Internal Drainage Board](http://www.middlelevel.gov.uk/nightlayers.aspx) (1 station)
 38. [Nordelph Internal Drainage Board](http://www.middlelevel.gov.uk/nordelph.aspx) (1 station)
-8. [North East Lindsey Internal Drainage Board](http://www.northeastlindsey-idb.org.uk) (6 stations)
+8. [North East Lindsey Drainage Board](http://www.northeastlindsey-idb.org.uk) (6 stations)
 9. [North Level District Internal Drainage Board](http://www.northlevelidb.org) (12 stations)
 10. [Old West Internal Drainage Board](http://www.elydrainageboards.co.uk/members/oldwest/home.html) (3 stations)
 11. [Over & Willingham Internal Drainage Board](http://www.middlelevel.gov.uk/Over.aspx) (1 station)
@@ -81,17 +81,18 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 **Ongoing**
 
 1. [Doncaster East Internal Drainage Board](http://www.shiregroup-idbs.gov.uk) (22 of 25 stations)
+2. [Ouse and Derwent Internal Drainage Board](http://www.yorkconsort.gov.uk/ouse.html) (6 of 7 stations)
 
 **To-Do**
 
 1. [Environment Agency](http://www.gov.uk/government/organisations/environment-agency)
+2. [Coal Authority](https://www.gov.uk/government/organisations/the-coal-authority)
 2. [Ainsty Internal Drainage Board](http://www.yorkconsort.gov.uk/ainsty2008.html)
 4. [Beverley and North Holderness Internal Drainage Board](http://www.yorkconsort.gov.uk/beverley.html)
 13. [Danvm Drainage Commissioners](http://www.shiregroup-idbs.gov.uk)
 21. [Foss Internal Drainage Board](http://www.yorkconsort.gov.uk/foss2008.html)
 28. [Lower Medway Internal Drainage Board](http://www.medwayidb.co.uk/lower-medway.html)
 39. [North Somerset Levels Internal Drainage Board](http://www.nslidb.org.uk)
-41. [Ouse and Derwent Internal Drainage Board](http://www.yorkconsort.gov.uk/ouse.html)
 42. [Ouse and Humber Drainage Board](http://www.ohdb.org.uk)
 45. [Parrett Internal Drainage Board](http://www.somersetdrainageboards.gov.uk/boards-membership/board-areas/parrett-internal-drainage-board)
 53. [Romney Marshes Area Internal Drainage Board](http://www.rmaidb.co.uk)
