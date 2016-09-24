@@ -6805,6 +6805,90 @@
           50.83045013714762
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Angram",
+        "Operator": "Ouse and Derwent Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0633336007595062,
+          53.81571531770542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kelfield Ings",
+        "Operator": "Ouse and Derwent Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1167363822460175,
+          53.83739304156726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hagthorpe",
+        "Operator": "Ouse and Derwent Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9291440248489379,
+          53.76864290061059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Elvington",
+        "Operator": "Ouse and Derwent Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9325718879699706,
+          53.918735888357745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stillingfleet",
+        "Operator": "Ouse and Derwent Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1159545183181763,
+          53.85857627765197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Newlands",
+        "Operator": "Ouse and Derwent Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.028020977973938,
+          53.7778810833283
+        ]
+      }
     }
   ]
 }
