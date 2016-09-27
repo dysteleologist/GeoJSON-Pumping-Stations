@@ -7,6 +7,7 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 
 1. [Ancholme Internal Drainage Board](http://www.shiregroup-idbs.gov.uk) (16 stations)
 2. [Benwick Internal Drainage Board](http://www.middlelevel.gov.uk/benwick.aspx) (6 stations)
+3. [Beverley and North Holderness Internal Drainage Board](http://www.yorkconsort.gov.uk/beverley.html) (1 station)
 3. [Black Drain Drainage Board](http://www.shiregroup-idbs.gov.uk) (3 stations)
 2. [Black Sluice Internal Drainage Board](http://www.blacksluiceidb.gov.uk) (34 stations)
 3. [Bluntisham Internal Drainage Board](http://www.middlelevel.gov.uk/bluntisham.aspx) (1 station)
@@ -88,7 +89,6 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 1. [Environment Agency](http://www.gov.uk/government/organisations/environment-agency)
 2. [Coal Authority](https://www.gov.uk/government/organisations/the-coal-authority)
 2. [Ainsty Internal Drainage Board](http://www.yorkconsort.gov.uk/ainsty2008.html)
-4. [Beverley and North Holderness Internal Drainage Board](http://www.yorkconsort.gov.uk/beverley.html)
 13. [Danvm Drainage Commissioners](http://www.shiregroup-idbs.gov.uk)
 21. [Foss Internal Drainage Board](http://www.yorkconsort.gov.uk/foss2008.html)
 28. [Lower Medway Internal Drainage Board](http://www.medwayidb.co.uk/lower-medway.html)
