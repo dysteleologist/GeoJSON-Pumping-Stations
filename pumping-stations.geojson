@@ -6889,6 +6889,20 @@
           53.7778810833283
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Riston",
+        "Operator": "Beverley and North Holderness Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3179436922073364,
+          53.87488896007233
+        ]
+      }
     }
   ]
 }
