@@ -2371,6 +2371,20 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "Seabank",
+        "Operator": "King's Lynn Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4181671142578125,
+          52.76415769393815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "Whitton Carr",
         "Operator": "Ancholme Internal Drainage Board"
       },
