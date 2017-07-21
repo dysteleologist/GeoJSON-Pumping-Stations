@@ -75,7 +75,7 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 13. [Welland and Deepings Internal Drainage Board](http://www.wellandidb.org.uk) (14 stations)
 14. [Witham First District Internal Drainage Board](http://www.witham-1st-idb.co.uk) (13 stations)
 15. [Witham Fourth District Internal Drainage Board](http://www.w4idb.co.uk) (8 stations)
-16. [Witham Third District Internal Drainage Board](http://www.witham-3rd-idb.co.uk) (17 stations)
+16. [Witham Third District Internal Drainage Board](http://www.witham-3rd-idb.co.uk) (18 stations)
 17. [Whittlesey and District Internal Drainage Board](http://www.wcidb.org.uk/whittlesey-district-idb) (14 stations)
 18. [Woodwalton Drainage Commissioners](http://www.wcidb.org.uk/woodwalton-idb) (1 station)
 
