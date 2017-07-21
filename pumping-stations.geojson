@@ -1013,6 +1013,20 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "Stamp End",
+        "Operator": "Witham Third District Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.515212,
+          53.227955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "Wainfleet Sea Lane",
         "Operator": "Lindsey Marsh Drainage Board"
       },
