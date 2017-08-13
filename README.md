@@ -67,6 +67,7 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 14. [Swavesey Internal Drainage Board](http://www.middlelevel.gov.uk/swavesey.aspx) (1 station)
 15. Thorntree Internal Drainage Board (1 station)
 12. [Trent Valley Internal Drainage Board](http://www.wmc-idbs.org.uk/TVIDB/) (18 stations)
+63. [Upper Witham Internal Drainage Board](http://www.uwidb.co.uk) (17 stations)
 13. [Upwell Internal Drainage Board](http://www.middlelevel.gov.uk/upwell.aspx) (5 stations)
 65. [Waldersey Internal Drainage Board](http://www.middlelevel.gov.uk/waldersey.aspx) (2 stations)
 66. [Warboys, Somersham & Pidley Internal Drainage Board](http://www.middlelevel.gov.uk/warboys-somersham-pidley.aspx) (6 stations)
@@ -98,7 +99,6 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 53. [Romney Marshes Area Internal Drainage Board](http://www.rmaidb.co.uk)
 55. [Selby Area Internal Drainage Board](http://www.shiregroup-idbs.gov.uk)
 60. [Swale and Ure Drainage Board](http://www.sandudb.gov.uk)
-63. [Upper Witham Internal Drainage Board](http://www.uwidb.co.uk)
 
 **Future Development**
 
