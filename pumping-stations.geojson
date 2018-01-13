@@ -6543,7 +6543,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "South Torne Bank",
+        "Name": "South Thorne Bank",
         "Operator": "Doncaster East Internal Drainage Board"
       },
       "geometry": {
@@ -6683,7 +6683,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Severn Arches",
+        "Name": "Seven Arches",
         "Operator": "Doncaster East Internal Drainage Board"
       },
       "geometry": {
@@ -6697,7 +6697,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Huxterwell",
+        "Name": "Huxter Well",
         "Operator": "Doncaster East Internal Drainage Board"
       },
       "geometry": {
@@ -6747,6 +6747,62 @@
         "coordinates": [
           -1.039873,
           53.561552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Askern's Drain",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9337359666824341,
+          53.5892953040773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Newington",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9985488653182983,
+          53.43903622837007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Middle Drain",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0894569754600525,
+          53.44942021910755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Parson's Carr",
+        "Operator": "Doncaster East Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1032086610794067,
+          53.47354281111533
         ]
       }
     },
