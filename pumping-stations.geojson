@@ -6935,6 +6935,20 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "Bishop Clough",
+        "Operator": "Ouse and Derwent Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.951257,
+          53.754486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "Elvington",
         "Operator": "Ouse and Derwent Internal Drainage Board"
       },
