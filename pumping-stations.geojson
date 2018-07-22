@@ -7868,6 +7868,20 @@
           53.514077
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Moor Lane",
+        "Operator": "Ainsty Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.117333,
+          53.934093
+        ]
+      }
     }
   ]
 }
