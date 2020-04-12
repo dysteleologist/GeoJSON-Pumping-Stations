@@ -6459,6 +6459,20 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "Beech Tree",
+        "Operator": "Rawcliffe Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.982664,
+          53.696776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "Blaxton Quarry",
         "Operator": "Doncaster East Internal Drainage Board"
       },
@@ -7880,6 +7894,48 @@
         "coordinates": [
           -1.334892,
           53.514077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stoney Lane",
+        "Operator": "Danvm Drainage Commissioners"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.024759,
+          53.635523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Field House Lane",
+        "Operator": "Danvm Drainage Commissioners"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.003650426864624,
+          53.630175967277516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Great Heck",
+        "Operator": "Danvm Drainage Commissioners"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.128072,
+          53.682769
         ]
       }
     },
