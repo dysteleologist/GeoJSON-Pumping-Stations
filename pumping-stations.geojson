@@ -7896,6 +7896,272 @@
           53.934093
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Loftsome Bridge",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.929457,
+          53.762845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Marsh Clough",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.942560,
+          53.756830
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lowfield",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.947173,
+          53.734925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Knedlington",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.894396,
+          53.728393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "North Howden",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.852690,
+          53.751387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Howdendyke",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.852717,
+          53.733075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Near Drain",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.841545,
+          53.723972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Laxton",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.794295,
+          53.704806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Yokefleet",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.764762,
+          53.708913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Blacktoft",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.732334,
+          53.708072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Faxfleet",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.682893,
+          53.725636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Oxmerdyke",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.692878,
+          53.746490
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Clegdike",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.692814,
+          53.747920
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Canal Side East",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.703865,
+          53.764457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Yapley Marr",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.710388,
+          53.773544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Seavy Carr",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.710171,
+          53.774530
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hasholme",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.728793,
+          53.784683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Skelfleet",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.632191,
+          53.733024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Crabley Creek",
+        "Operator": "Ouse and Humber Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.629144,
+          53.735293
+        ]
+      }
     }
   ]
 }
