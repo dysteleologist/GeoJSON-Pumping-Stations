@@ -8218,6 +8218,20 @@
           53.735293
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Spudling Dyke",
+        "Operator": "Swale & Ure Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4269539713859558,
+          54.270036089610755
+        ]
+      }
     }
   ]
 }
