@@ -68,8 +68,9 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 12. [Stoke Ferry Internal Drainage Board](http://www.downhammarketidbs.org.uk/board.asp?board=sf) (4 stations)
 13. [Sutton & Mepal Internal Drainage Board](http://www.middlelevel.gov.uk/sutton-and-meple.aspx) (1 station)
 13. [Swaffham Internal Drainage Board](http://www.elydrainageboards.co.uk/members/swaffham/home.html) (1 station)
+60. [Swale and Ure Drainage Board](http://www.sandudb.gov.uk) (1 station)
 14. [Swavesey Internal Drainage Board](http://www.middlelevel.gov.uk/swavesey.aspx) (1 station)
-15. Thorntree Internal Drainage Board (1 station)
+15. [Thorntree Internal Drainage Board](http://www.thorntree-idb.org.uk/) (1 station)
 12. [Trent Valley Internal Drainage Board](http://www.wmc-idbs.org.uk/TVIDB/) (18 stations)
 63. [Upper Witham Internal Drainage Board](http://www.uwidb.co.uk) (17 stations)
 13. [Upwell Internal Drainage Board](http://www.middlelevel.gov.uk/upwell.aspx) (5 stations)
@@ -98,7 +99,6 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 45. [Parrett Internal Drainage Board](http://www.somersetdrainageboards.gov.uk/boards-membership/board-areas/parrett-internal-drainage-board)
 53. [Romney Marshes Area Internal Drainage Board](http://www.rmaidb.co.uk)
 55. [Selby Area Internal Drainage Board](http://www.shiregroup-idbs.gov.uk)
-60. [Swale and Ure Drainage Board](http://www.sandudb.gov.uk)
 
 **Future Development**
 
