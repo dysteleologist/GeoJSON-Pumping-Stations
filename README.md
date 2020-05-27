@@ -34,6 +34,7 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 5. [Lakenheath Internal Drainage Board](http://www.elydrainageboards.co.uk/members/lakenheath/home.html) (1 station)
 5. [Lindsey Marsh Drainage Board](http://www.wmc-idbs.org.uk/LMDB) (32 stations)
 6. [Littleport and Downham Internal Drainage Board](http://www.elydrainageboards.co.uk/members/littleport_downham/home.html) (7 stations)
+28. [Lower Medway Internal Drainage Board](http://www.medwayidb.co.uk/lower-medway.html) (4 stations)
 6. [Lower Severn Internal Drainage Board](http://www.lowersevernidb.org.uk) (6 stations)
 7. [Manea & Welney District Drainage Commissioners](http://www.middlelevel.gov.uk/manea-and-welney.aspx) (3 stations)
 8. [March East Internal Drainage Board](http://www.middlelevel.gov.uk/march-east.aspx) (3 stations)
@@ -94,11 +95,10 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 1. [Environment Agency](http://www.gov.uk/government/organisations/environment-agency)
 2. [Coal Authority](https://www.gov.uk/government/organisations/the-coal-authority)
 21. [Foss Internal Drainage Board](http://www.yorkconsort.gov.uk/foss2008.html)
-28. [Lower Medway Internal Drainage Board](http://www.medwayidb.co.uk/lower-medway.html)
 39. [North Somerset Levels Internal Drainage Board](http://www.nslidb.org.uk)
-45. [Parrett Internal Drainage Board](http://www.somersetdrainageboards.gov.uk/boards-membership/board-areas/parrett-internal-drainage-board)
-53. [Romney Marshes Area Internal Drainage Board](http://www.rmaidb.co.uk)
-55. [Selby Area Internal Drainage Board](http://www.shiregroup-idbs.gov.uk)
+45. [Parrett Internal Drainage Board](http://www.somersetdrainageboards.gov.uk/boards-membership/board-areas/parrett-internal-drainage-board) (1 station?)
+53. [Romney Marshes Area Internal Drainage Board](http://www.rmaidb.co.uk) (5 stations)
+55. [Selby Area Internal Drainage Board](http://www.shiregroup-idbs.gov.uk) (21 stations)
 
 **Future Development**
 
