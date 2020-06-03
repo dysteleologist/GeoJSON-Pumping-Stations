@@ -8288,6 +8288,34 @@
           51.412416
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Beeston",
+        "Operator": "Bedfordshire and River Ivel Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.296947,
+          52.122633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Podimore",
+        "Operator": "Parrett Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.666845,
+          51.022528
+        ]
+      }
     }
   ]
 }
