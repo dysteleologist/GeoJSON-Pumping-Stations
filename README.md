@@ -6,6 +6,7 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 **Finished**
 
 1. [Ancholme Internal Drainage Board](http://www.shiregroup-idbs.gov.uk) (16 stations)
+1. [Bedfordshire and River Ivel Internal Drainage Board](http://www.idbs.org.uk) (1 station)
 2. [Benwick Internal Drainage Board](http://www.middlelevel.gov.uk/benwick.aspx) (6 stations)
 3. [Beverley and North Holderness Internal Drainage Board](http://www.yorkconsort.gov.uk/beverley.html) (1 station)
 3. [Black Drain Drainage Board](http://www.adoc.org.uk/) (3 stations)
@@ -89,6 +90,7 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 **Ongoing**
 
 1. [Ainsty Internal Drainage Board](http://www.yorkconsort.gov.uk/ainsty2008.html) (1 of 3 stations)
+45. [Parrett Internal Drainage Board](http://www.somersetdrainageboards.gov.uk/boards-membership/board-areas/parrett-internal-drainage-board) (1 station?)
 
 **To-Do**
 
@@ -96,7 +98,6 @@ Dataset of pumping stations in England, with the focus on land drainage and floo
 2. [Coal Authority](https://www.gov.uk/government/organisations/the-coal-authority)
 21. [Foss Internal Drainage Board](http://www.yorkconsort.gov.uk/foss2008.html)
 39. [North Somerset Levels Internal Drainage Board](http://www.nslidb.org.uk)
-45. [Parrett Internal Drainage Board](http://www.somersetdrainageboards.gov.uk/boards-membership/board-areas/parrett-internal-drainage-board) (1 station?)
 53. [Romney Marshes Area Internal Drainage Board](http://www.rmaidb.co.uk) (5 stations)
 55. [Selby Area Internal Drainage Board](http://www.shiregroup-idbs.gov.uk) (21 stations)
 
