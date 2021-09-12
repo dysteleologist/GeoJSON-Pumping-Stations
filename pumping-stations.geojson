@@ -8306,6 +8306,20 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "King's Ditch",
+        "Operator": "Bedfordshire and River Ivel Internal Drainage Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4610744118690491,
+          52.13341065971713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "Podimore",
         "Operator": "Parrett Internal Drainage Board"
       },
