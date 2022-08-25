@@ -6669,20 +6669,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Pissy Beds",
-        "Operator": "Doncaster East Internal Drainage Board"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.990893,
-          53.598117
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "West Moor",
         "Operator": "Doncaster East Internal Drainage Board"
       },
@@ -6817,20 +6803,6 @@
         "coordinates": [
           -1.0894569754600525,
           53.44942021910755
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Name": "Parson's Carr",
-        "Operator": "Doncaster East Internal Drainage Board"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1032086610794067,
-          53.47354281111533
         ]
       }
     },
