@@ -2931,20 +2931,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Black Dyke",
-        "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.764413,
-          53.501359
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "South Street",
         "Operator": "Isle of Axholme and North Nottinghamshire Water Level Management Board"
       },
